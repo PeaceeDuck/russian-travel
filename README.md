@@ -41,7 +41,7 @@ A one-page site developed in compliance with the Nested BEM methodology, as well
 - Grid Layoout
 ## Installation instructions :
 ```
-git clone [https://github.com/MelnikovAleksei/how-to-learn.git](https://github.com/PeaceeDuck/russian-travel.git)
+git clone https://github.com/PeaceeDuck/russian-travel.git
 ```
 Run a local development server with real-time reload functionality for static and dynamic pages - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 ## Plans for finalizing the project:
