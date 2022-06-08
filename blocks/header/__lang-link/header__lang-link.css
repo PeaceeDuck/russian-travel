@@ -3,15 +3,15 @@
   color: #ffffff;
   line-height: 28px;
   font-weight: 400;
-  margin: 0;
-  padding-right: 18px;
+  margin: 0 18px 0 0;
+  text-decoration: none;
 }
 
 .header__lang-link:last-of-type {
-  padding: 0;
+  margin-right: 0;
 }
 
-.header__link:hover {
+.header__lang-link:hover {
   opacity: 0.8;
   transition: opacity 0.2s ease;
 }
