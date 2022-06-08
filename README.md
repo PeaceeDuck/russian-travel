@@ -23,7 +23,7 @@ git clone https://github.com/PeaceeDuck/russian-travel.git
 ## Макет в Figma
 [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 ## Чек-листы
-- [Чек-лист №1](https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf)
+[Чек-лист №1](https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf)
 
 # Project work: "Russia Travel". Created as part of training at Yandex.Practice at the faculty "Web Developer Plus". 
 ## Desription:
@@ -50,4 +50,4 @@ Run a local development server with real-time reload functionality for static an
 ## Figma design file
 [Figma design file source](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 ## Checklists
-- [Checklist №1](https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf)
+[Checklist №1](https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf)
