@@ -11,7 +11,7 @@
 - CSS animation
 - Positioning
 - BEM Methodology (Nested BEM)
-- Grid Layoout
+- Grid Layout
 ## Инструкция по установке:
 ```
 git clone https://github.com/PeaceeDuck/russian-travel.git
@@ -38,7 +38,7 @@ A one-page site developed in compliance with the Nested BEM methodology, as well
 - CSS animation
 - Positioning
 - BEM Methodology (Nested BEM)
-- Grid Layoout
+- Grid Layout
 ## Installation instructions :
 ```
 git clone https://github.com/PeaceeDuck/russian-travel.git
